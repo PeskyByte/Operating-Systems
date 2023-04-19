@@ -1,2 +1,2 @@
 # Scheduling-Algorithms
-Implementations for scheduling algoritms for my operating system class 
+Implementations for scheduling algoritms for my operating systems class.
